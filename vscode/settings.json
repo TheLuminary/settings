@@ -1,0 +1,13 @@
+{
+    "window.restoreWindows": "none",
+    "git.enabled": false,
+    "update.channel": "none",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 64,
+    "editor.formatOnSave": true,
+    // https://www.zhihu.com/question/30315894
+    "C_Cpp.default.includePath": [
+        "C:/Program Files (x86)/Microsoft Visual Studio 8/VC/include"
+    ],
+    "C_Cpp.clang_format_path": "C:\\Program Files (x86)\\LLVM\\bin\\clang-format.exe"
+}
